@@ -1,6 +1,6 @@
 ## Notice
  - 这是一个基于swing的java小程序
- - 基于jdk8.0开发
+ - 基于jdk8开发
  - 版本 1.0
 
 ## How to use
